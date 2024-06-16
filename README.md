@@ -1,6 +1,6 @@
 
 ## [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-- [ ] HTML main tags [Playlist](https://www.youtube.com/playlist?list=PLblA84xge2_xNtaFnZhefjFbnDrpySKD3)
+- [ ✓] HTML main tags [Playlist](https://www.youtube.com/playlist?list=PLblA84xge2_xNtaFnZhefjFbnDrpySKD3)
   - [ ] `<html>` [Link](https://www.w3docs.com/learn-html/html-html-tag.html)
   - [ ] `<head>` [Link](https://www.w3docs.com/learn-html/html-head-tag.html)
   - [ ] `<body>` [Link](https://www.w3docs.com/learn-html/html-body-tag.html)
